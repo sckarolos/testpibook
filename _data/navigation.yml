@@ -1,0 +1,53 @@
+- title: ΑΡΧΙΚΗ
+  url: "/"
+  side: left
+
+- title: "ΚΕΦΑΛΑΙΑ"
+  url: ""
+  side: left
+  dropdown:
+  - title: "ΠΡΟΛΟΓΟΣ"
+    url: "/preface/"
+  - title: "ΕΙΣΑΓΩΓΗ"
+    url: "/intro/"
+  - title: "ΟΡΙΣΜΟΣ"
+    url: "/definition/"
+  - title: "ΜΕΘΟΔΟΣ"
+    url: "/method/"
+  - title: "ΑΡΧΕΤΥΠΑ"
+    url: "/archetypes/"
+  - title: "ΕΡΓΑΛΕΙΑ"
+    url: "/tools/"
+  - title: "ΜΟΝΤΕΛΑ"
+    url: "/models/"
+  - title: "ΣΥΝΘΕΣΗ"
+    url: "/synthesis/"
+  - title: "ΜΟΡΦΕΣ"
+    url: "/forms/"
+  - title: "ΜΗΧΑΝΙΚΗ"
+    url: "/engineering/"
+
+- title: ΒΙΒΛΙΟ
+  url: ""
+  side: left
+  dropdown:
+  - title: PDF
+    url: "/download/pi.pdf"
+  - title: "EPUB"
+    url: "/download/pi.epub"
+
+- title: "ΕΙΚΟΝΕΣ"
+  url: "/gallery/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+
+- title: "ΣΥΜΜΕΤΟΧΗ"
+  url: "/git/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
